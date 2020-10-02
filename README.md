@@ -1,16 +1,18 @@
 # notekeeper
 
-A new Flutter project.
+A Flutter Application demostrating Note keeper feature developed with sqflite plugin for managing local database.
 
-## Getting Started
+## Homepage and Edit Page
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://github.com/amirjadhav/flutter-NoteKeeper/blob/master/screenshot/home.png" width="350" title="Interest calculator">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/amirjadhav/flutter-NoteKeeper/blob/master/screenshot/editnote.png" width="350" title="Interest calculator">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status alertdialog and Delete Snackbar 
+<p align="center">
+  <img src="https://github.com/amirjadhav/flutter-NoteKeeper/blob/master/screenshot/status.png" width="350" title="Interest calculator">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/amirjadhav/flutter-NoteKeeper/blob/master/screenshot/delete.png" width="350" title="Interest calculator">
+</p>
